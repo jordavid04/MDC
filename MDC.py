@@ -1,8 +1,11 @@
-import math #biblioteca de funcoes matematicas
-
-lista_variavels = []  #lista com os valores armazenados
+#biblioteca de funcoes matematicas
+import math 
 
 #lista com os valores armazenados
+
+lista_variavels = []  
+
+#contador e quantidade de variavels
 n = int(input("Insera quantas variavels võce quer : "))
 contador = 0
 
